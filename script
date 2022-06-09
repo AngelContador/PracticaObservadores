@@ -1,0 +1,14 @@
+CREATE DATABASE animalsmar;
+USE animalsmar;
+
+CREATE TABLE animalesmarinos(
+	especie VARCHAR(45),
+	habitat VARCHAR(45),
+	sexo VARCHAR(45),
+	profundidad VARCHAR(45),
+	tiemponav VARCHAR(45),
+	horalleg VARCHAR(45),
+	cebo VARCHAR(45),
+	temp VARCHAR(45),
+	parasito VARCHAR(45)
+);
